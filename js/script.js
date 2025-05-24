@@ -1,0 +1,3 @@
+window.mostrarDetallesUsuario = mostrarDetallesUsuario;
+window.mostrarDetallesProducto = mostrarDetallesProducto;
+window.mostrarDetallesCarrito = mostrarDetallesCarrito;
